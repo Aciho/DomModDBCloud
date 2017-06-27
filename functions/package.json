@@ -1,0 +1,16 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "@google-cloud/storage": "^1.1.1",
+    "child-process-promise": "^2.2.1",
+    "decompress": "^4.2.0",
+    "extract-zip": "^1.6.5",
+    "firebase-admin": "~4.2.1",
+    "firebase-functions": "^0.5.7",
+    "unzip": "^0.1.11",
+    "unzip-stream": "^0.1.2",
+    "yauzl": "^2.8.0"
+  },
+  "private": true
+}
